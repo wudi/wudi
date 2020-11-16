@@ -1,7 +1,11 @@
-### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=wudi&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
+- 🔭 I’m currently working on microservices and distributed system.
+- 🌱 I’m currently learning Go internals
+- 📫 How to reach me: me@wudi.io
 
 <!--
-**wudi/wudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**changkun/changkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
