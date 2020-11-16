@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on microservices and distributed system.
 - 🌱 I’m currently learning Go internals
-- 📫 How to reach me: me@wudi.io
+- 📫 How to reach me: hi@wudi.io
 
 <!--
 **changkun/changkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
