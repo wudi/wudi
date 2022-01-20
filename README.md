@@ -1,7 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=wudi&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 - 🔭 I’m currently working on microservices and distributed system.
-- 🌱 I’m currently learning Go internals
+- 🌱 I’m currently learning internals of PHP/Go and compiler.
 - 📫 How to reach me: hi@wudi.io
 
 <!--
